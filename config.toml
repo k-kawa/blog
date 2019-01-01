@@ -1,4 +1,4 @@
-baseURL = "https://k-kawa.github.io/blog"
+baseURL = "https://k-kawa.github.io/blog/"
 languageCode = "en-us"
 title = "My blog"
 theme = "slick"
